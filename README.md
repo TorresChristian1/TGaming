@@ -14,3 +14,4 @@
     - We also ensured we did our link tag in the head to the right path to connect the two css files of reset.css and 
     main.css.
     - We also ensured that the script tag is used and written correctly and ensure the path match to location of js file. 
+    - just added a header and small paragraph for mission statement.
