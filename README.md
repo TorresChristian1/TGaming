@@ -15,3 +15,5 @@
     main.css.
     - We also ensured that the script tag is used and written correctly and ensure the path match to location of js file. 
     - just added a header and small paragraph for mission statement.
+### Changelog 0.0.2
+ -Rebuilt all html and left reset page the same and scratched the last style.css and building all html before doing the CSS and JS portion of the build
